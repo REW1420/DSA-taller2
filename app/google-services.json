@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032862298510",
+    "project_id": "dsa-taller2",
+    "storage_bucket": "dsa-taller2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032862298510:android:dd8169a650d63011c974df",
+        "android_client_info": {
+          "package_name": "com.example.dsa_taller2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032862298510-1mn6h1n9vg0ca15hbf0avpb7gkr5pt7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8CUbFiFSXxaIjCAUlbqylMKQaaKNsBfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032862298510-1mn6h1n9vg0ca15hbf0avpb7gkr5pt7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
